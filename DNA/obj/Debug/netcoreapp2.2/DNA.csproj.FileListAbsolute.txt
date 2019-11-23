@@ -1,0 +1,15 @@
+C:\Github\DNA\DNA\DNA\bin\Debug\netcoreapp2.2\DNA.dll.config
+C:\Github\DNA\DNA\DNA\bin\Debug\netcoreapp2.2\DNA.deps.json
+C:\Github\DNA\DNA\DNA\bin\Debug\netcoreapp2.2\DNA.runtimeconfig.json
+C:\Github\DNA\DNA\DNA\bin\Debug\netcoreapp2.2\DNA.runtimeconfig.dev.json
+C:\Github\DNA\DNA\DNA\bin\Debug\netcoreapp2.2\DNA.dll
+C:\Github\DNA\DNA\DNA\bin\Debug\netcoreapp2.2\DNA.pdb
+C:\Github\DNA\DNA\DNA\obj\Debug\netcoreapp2.2\DNA.csprojAssemblyReference.cache
+C:\Github\DNA\DNA\DNA\obj\Debug\netcoreapp2.2\DNA.csproj.CoreCompileInputs.cache
+C:\Github\DNA\DNA\DNA\obj\Debug\netcoreapp2.2\DNA.RazorAssemblyInfo.cache
+C:\Github\DNA\DNA\DNA\obj\Debug\netcoreapp2.2\DNA.RazorAssemblyInfo.cs
+C:\Github\DNA\DNA\DNA\obj\Debug\netcoreapp2.2\DNA.AssemblyInfoInputs.cache
+C:\Github\DNA\DNA\DNA\obj\Debug\netcoreapp2.2\DNA.AssemblyInfo.cs
+C:\Github\DNA\DNA\DNA\obj\Debug\netcoreapp2.2\DNA.RazorTargetAssemblyInfo.cache
+C:\Github\DNA\DNA\DNA\obj\Debug\netcoreapp2.2\DNA.dll
+C:\Github\DNA\DNA\DNA\obj\Debug\netcoreapp2.2\DNA.pdb
